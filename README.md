@@ -87,4 +87,4 @@ Execute the cells in the Jupyter Notebook sequentially. The script will preproce
 
 ## Model Performance
 
-The model was trained for 80 epochs per fold across 10 folds. The evaluation on the test sets for each fold yielded an average accuracy of approximately **60%**. The training history, including accuracy and loss curves for each fold, is plotted at the end of the notebook execution.
+The model was trained for 100 epochs per fold across 5 folds. The evaluation on the test sets for each fold yielded an average accuracy of approximately **60%**. The training history, including accuracy and loss curves for each fold, is plotted at the end of the notebook execution.
